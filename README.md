@@ -1,6 +1,6 @@
 # AuthUserAPI Express
 
-Este é um projeto de API de autenticação de usuário usando Express.
+Este é um projeto de API de autenticação de usuário usando Express. Utilize sua IDE preferida, eu utilizo VScode, e uma plataforma para testar a API - eu utilizo o Postman.
 
 ## Dependências
 
@@ -26,27 +26,26 @@ O banco de dados é simulado em memória usando uma lista em JavaScript no arqui
    ```bash
    git clone https://github.com/WarleyLeandro/authUserAPI_Express.git
 
-   ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
    cd authUserAPI_Express
-
-   ```
+   
 
 3. Instale as dependências:
 
    ```bash
    npm install
-   ```
+
 
 ## Executando o Projeto
 
 Para iniciar o servidor, execute o seguinte comando:
 
-    ```bash
-    npm start
+   ```bash
+   npm start
+   ```
 
 O servidor será iniciado na porta configurada (padrão: 3000).
 
@@ -54,11 +53,13 @@ O servidor será iniciado na porta configurada (padrão: 3000).
 
 Para executar os testes automatizados, utilize o seguinte comando:
 
-    ```bash
-    npm start
+   ```bash
+   npm test
+   ```
 
 Isso executará os testes e exibirá os resultados no console.
 
 ### Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas e enviar pull requests.
+
